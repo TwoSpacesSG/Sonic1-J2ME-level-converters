@@ -1,0 +1,1 @@
+Please note that both scripts were generated using Gemini 3.6 Flash and tweaked by hand in post.
